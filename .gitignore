@@ -1,6 +1,9 @@
 # Dados
 data/
 
+# Claude Code
+.claude/
+
 # Python
 __pycache__/
 *.py[cod]
