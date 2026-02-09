@@ -1,4 +1,8 @@
-# Case Técnico - Cientista de Dados Júnior | Datarisk
+# Credit Scoring Model - Datarisk
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ## Modelo de Score de Crédito - Probabilidade de Inadimplência
 
